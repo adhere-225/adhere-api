@@ -1,6 +1,6 @@
 server:
 #  端口号配置
-  port: 2255
+  port: 225
 #  项目路径
   servlet:
     context-path: /
