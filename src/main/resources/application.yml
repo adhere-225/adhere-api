@@ -5,3 +5,10 @@ server:
   servlet:
     context-path: /
 
+#FTP上传
+ftp:
+  host: 101.201.149.161
+  port: 21
+  username: ftpadmin
+  password: ftpadmin
+  encoding: UTF-8
